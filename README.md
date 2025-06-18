@@ -67,7 +67,7 @@ A comprehensive customer service solution that combines Retrieval-Augmented Gene
 ### Running the FastAPI Server
 
 ```bash
-python app.py
+python main.py
 ```
 
 The API will be available at:
@@ -78,7 +78,7 @@ The API will be available at:
 ### Running the CLI Demo
 
 ```bash
-python app.py cli
+python main.py cli
 ```
 
 ## 📖 API Endpoints

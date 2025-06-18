@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+sentence-transformers
+scikit-learn
+numpy
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
